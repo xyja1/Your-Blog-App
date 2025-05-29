@@ -1,8 +1,5 @@
 # YOUR Blogging App 📚✨
 
-Mirë se vini në Blogging App – një aplikacion modern i ndërtuar me teknologjinë MERN (MongoDB, Express.js, React.js, dhe Node.js). Ky projekt ofron një platformë të plotë ku përdoruesit mund të krijojnë, lexojnë, përditësojnë dhe fshijnë postime blogu.
-
----
 
 ##  Funksionalitete Kryesore
 
