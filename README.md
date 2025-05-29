@@ -16,3 +16,4 @@
 - **Database:** MongoDB me Mongoose
 - **Autentikim:** JSON Web Tokens (JWT)
 - **Media Storage:** Cloudinary
+  
