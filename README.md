@@ -8,7 +8,6 @@
 - 💬 **Komentim dhe Ndërveprim:** Vizitorët mund të lexojnë postime dhe të komentojnë.
 - 📱 **Përgjigje ndaj Pajisjes:** Dizajn i përshtatshëm për desktop, tablet dhe telefon.
 
----
 
 ## 🛠️ Teknologjitë që përdoren
 
